@@ -1,0 +1,23 @@
+{
+  "clientes": [
+    {
+      "id": 1
+    },
+    {
+      "id": 2
+    },
+    {
+      "nombre": "julian",
+      "telefono": "618594675",
+      "email": "hola@gmail.com",
+      "empresa": "ironhack",
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 5
+    }
+  ]
+}
